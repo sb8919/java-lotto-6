@@ -33,7 +33,14 @@ public class Lotto {
         return count;
     }
 
-    public static int get
+    public static boolean isMatchBonusNumber(List<Integer> winningNumbers,int bonusNumber){
+        for(int w_n : winningNumbers){
+            if(w_n == bonusNumber){
+                return true;
+            }
+        }
+        return false;
+    }
     private void validate(List<Integer> numbers) {
         if (numbers.size() != 6) {
             throw new IllegalArgumentException();
