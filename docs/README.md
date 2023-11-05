@@ -69,12 +69,11 @@
   
 # Controller
 
-## ❌ 구매 금액 입력 검증
+## ✅ 구매 금액 입력 검증
 
-- ❌ validateInputPurchaseAmount 메서드 구현
+- ✅ validateInputPurchaseAmount 메서드 구현
   - 사용자가 구매 금액을 1,000원 단위로 입력 했는지 검증
-  - 사용자가 잘못된 값을 입력할 경우 IllegalArgumentException를 발생시키고, "[ERROR]"로 시작하는 에러 메시지를 출력 후 그 부분부터 입력
-
+  
 ## ❌ 로또 번호 검증 
 
 - ❌ validateNumberRange 메서드 구현
