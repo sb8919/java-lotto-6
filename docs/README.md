@@ -45,9 +45,9 @@
 - ❌ displayErrorMessage
   -  검증에서 실패할 경우 실패한 사유 출력
 
-## ❌ 구입금액 입력
+## ✅ 구입금액 입력
 
-- ❌ getInputPurchaseAmount 메서드 구현
+- ✅ getInputPurchaseAmount 메서드 구현
   - '구입금액을 입력해 주세요.' 출력
   - 사용자의 입력을 통해 구매 금액을 입력
 
