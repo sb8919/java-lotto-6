@@ -73,7 +73,12 @@
 
 - ✅ validateInputPurchaseAmount 메서드 구현
   - 사용자가 구매 금액을 1,000원 단위로 입력 했는지 검증
-  
+
+## ✅ 입력 값 타입 검증
+
+- ✅ validateInputIsNumeric 메서드 구현
+  - 사용자가 숫자를 입력했는지 검증
+
 ## ✅ 로또 번호 검증 
 
 - ✅ validateNumberRange 메서드 구현
