@@ -17,4 +17,7 @@ public class Validator {
         }
         return nonEmptyNumCount == 6;
     }
+    public static boolean validateInputBonusNumber(int num){
+        return validateNumberRange(num);
+    }
 }

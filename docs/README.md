@@ -85,8 +85,7 @@
 - ✅ validateInputWinningNumber 메서드 구현
   - 6개의 숫자를 입력 했으며, (,)로 구분 했는지 검증
   
-## ❌ 보너스 번호 검증 기능
+## ✅ 보너스 번호 검증 기능
 
-- ❌ validateInputBonusNumber 메서드 구현
+- ✅ validateInputBonusNumber 메서드 구현
   - validateNumberRange를 통해 검증
-  - 사용자가 잘못된 값을 입력할 경우 IllegalArgumentException를 발생시키고, "[ERROR]"로 시작하는 에러 메시지를 출력 후 그 부분부터 입력
