@@ -80,12 +80,11 @@
   - 숫자가 1부터 45사이의 숫자인지 검증
   - 조건에 부합 하지 않을 경우 false 리턴 
   
-## ❌ 로또 당첨 번호 입력 검증 
+## ✅ 로또 당첨 번호 입력 검증 
 
-- ❌ validateInputWinningNumber 메서드 구현
+- ✅ validateInputWinningNumber 메서드 구현
   - 6개의 숫자를 입력 했으며, (,)로 구분 했는지 검증
-  - 사용자가 잘못된 값을 입력할 경우 IllegalArgumentException를 발생시키고, "[ERROR]"로 시작하는 에러 메시지를 출력 후 그 부분부터 입력
-
+  
 ## ❌ 보너스 번호 검증 기능
 
 - ❌ validateInputBonusNumber 메서드 구현
